@@ -8,7 +8,7 @@ const hello = () => {
     
     <div>helloooxzxzdsdsxo  dssdsds</div>
 
-    <div>hello</div>
+    <div>hello diyora</div>
     </>
   )
   
