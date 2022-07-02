@@ -2,6 +2,6 @@ import React from 'react'
 
 export const world = () => {
   return (
-    <div>worldsdsd</div>
+    <div>worldsdsd of coding sdsd</div>
   )
 }
