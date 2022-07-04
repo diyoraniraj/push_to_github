@@ -4,11 +4,7 @@ const hello = () => {
 
   return (
     <> 
-    <div>helloooxzxzdsdsxo</div>
-    
-    <div>helloooxzxzdsdsxo  dssdsds</div>
-
-    <div>hello diyora niraj</div>
+    <div>hello wecome diyora</div>
     </>
   )
   
