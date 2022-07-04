@@ -2,7 +2,7 @@ import React from 'react'
 
 const dev = () => {
   return (
-    <div>dev sdsds</div>
+    <div>hello diyora this is your dev</div>
   )
 }
 
